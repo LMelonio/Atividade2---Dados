@@ -1,2 +1,2 @@
 # Atividade2---Dados
-Realização de comandos em python, utilizando pandas com o foco em análise de dados, o dados foram obtidos no kaggle.
+Realização de análise de dados, utilizando python, os dados foram obtidos no kaggle.
